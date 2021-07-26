@@ -1,0 +1,106 @@
+{
+    "mes_corrent": "feb",
+    "plot_percent": "True",
+    "plot_legend": "True",
+    "precent_especifc": "True",
+    "cenrio_previsto": "n",
+    "Reserva": 50,
+    "caixa": 75000000,
+    "Modelo": {
+        "pesetSafe": 30,
+        "confianca": [
+            70,
+            60,
+            50,
+            40,
+            30,
+            20
+        ]
+    },
+    "mercado": {
+        "jan": 311,
+        "feb": 295,
+        "mar": 260,
+        "abr": 160,
+        "mai": 163,
+        "jun": 255,
+        "jul": 290,
+        "ago": 310,
+        "set": 334,
+        "out": 350,
+        "nov": 320,
+        "dez": 250
+    },
+    "cenarios": {
+        "mu": {
+            "jan": 119,
+            "feb": 70,
+            "mar": 50,
+            "abr": 50,
+            "mai": 50,
+            "jun": 69,
+            "jul": 78,
+            "ago": 89,
+            "set": 101,
+            "out": 89,
+            "nov": 80,
+            "dez": 55
+        },
+        "u": {
+            "jan": 183,
+            "feb": 140,
+            "mar": 93,
+            "abr": 50,
+            "mai": 50,
+            "jun": 84,
+            "jul": 139,
+            "ago": 172,
+            "set": 191,
+            "out": 209,
+            "nov": 177,
+            "dez": 122
+        },
+        "n": {
+            "jan": 253,
+            "feb": 234,
+            "mar": 207,
+            "abr": 141,
+            "mai": 128,
+            "jun": 220,
+            "jul": 253,
+            "ago": 269,
+            "set": 280,
+            "out": 285,
+            "nov": 269,
+            "dez": 189
+        },
+        "s": {
+            "jan": 357,
+            "feb": 390,
+            "mar": 360,
+            "abr": 221,
+            "mai": 218,
+            "jun": 304,
+            "jul": 341,
+            "ago": 407,
+            "set": 527,
+            "out": 600,
+            "nov": 600,
+            "dez": 469
+        },
+        "ms": {
+            "jan": 431,
+            "feb": 537,
+            "mar": 490,
+            "abr": 263,
+            "mai": 285,
+            "jun": 449,
+            "jul": 505,
+            "ago": 599,
+            "set": 600,
+            "out": 600,
+            "nov": 600,
+            "dez": 600
+        }
+    }
+}
